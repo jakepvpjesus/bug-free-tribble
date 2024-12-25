@@ -84,3 +84,16 @@
 [20:26:14] [Server thread/INFO]: [Not Secure] <jake_pvp_jesus> perame unos 15
 [20:26:51] [Server thread/INFO]: soy_flavor5601 lost connection: Disconnected
 [20:26:51] [Server thread/INFO]: soy_flavor5601 left the game
+[20:58:34] [Server thread/INFO]: jake_pvp_jesus lost connection: Disconnected
+[20:58:34] [Server thread/INFO]: jake_pvp_jesus left the game
+[21:01:13] [Server thread/INFO]: Stopping the server
+[21:01:13] [Server thread/INFO]: Stopping server
+[21:01:13] [Server thread/INFO]: Saving players
+[21:01:13] [Server thread/INFO]: Saving worlds
+[21:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:01:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:01:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
