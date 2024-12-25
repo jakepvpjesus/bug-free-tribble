@@ -7,13 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-12-25 19:51:31 +0000",
+      "minecraft:flower_forest": "2024-12-25 20:09:45 +0000",
       "minecraft:beach": "2024-12-25 19:44:04 +0000",
       "minecraft:dark_forest": "2024-12-25 19:45:12 +0000",
       "minecraft:forest": "2024-12-25 19:41:59 +0000",
+      "minecraft:river": "2024-12-25 19:45:10 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-25 19:51:31 +0000",
       "minecraft:windswept_forest": "2024-12-25 19:52:12 +0000",
       "minecraft:sunflower_plains": "2024-12-25 19:36:22 +0000",
-      "minecraft:river": "2024-12-25 19:45:10 +0000",
+      "minecraft:swamp": "2024-12-25 20:02:38 +0000",
       "minecraft:birch_forest": "2024-12-25 19:44:44 +0000",
       "minecraft:savanna": "2024-12-25 19:41:46 +0000",
       "minecraft:windswept_savanna": "2024-12-25 19:51:57 +0000",
@@ -236,6 +238,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-25 19:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-25 20:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-25 20:08:44 +0000"
     },
     "done": true
   },
