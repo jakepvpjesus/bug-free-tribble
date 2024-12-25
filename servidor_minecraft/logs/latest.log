@@ -49,3 +49,5 @@
 [19:51:51] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-158, y=64, z=-90} hx{x=-158, y=62, z=-90}
 [19:52:13] [Server thread/INFO]: jake_pvp_jesus lost connection: Disconnected
 [19:52:13] [Server thread/INFO]: jake_pvp_jesus left the game
+[19:57:40] [Server thread/INFO]: jake_pvp_jesus[/127.25.47.25:55763] logged in with entity id 9085 at (-168.69999998807907, 71.0, -129.5137814191927)
+[19:57:40] [Server thread/INFO]: jake_pvp_jesus joined the game
