@@ -121,3 +121,14 @@
 [26Dec2024 19:31:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jake_pvp_jesus: Set own game mode to Creative Mode]
 [26Dec2024 19:32:23.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus has made the advancement [Stone Age]
 [26Dec2024 19:33:40.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jake_pvp_jesus: Set own game mode to Survival Mode]
+[26Dec2024 19:34:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jake_pvp_jesus: Set own game mode to Creative Mode]
+[26Dec2024 19:34:17.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jake_pvp_jesus: Set own game mode to Survival Mode]
+[26Dec2024 19:35:43.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus fell from a high place
+[26Dec2024 19:36:27.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jake_pvp_jesus lost connection: Disconnected
+[26Dec2024 19:36:27.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus left the game
+[26Dec2024 19:39:47.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jake_pvp_jesus[/127.25.47.25:51125] logged in with entity id 3701 at (-48.12968628612431, 78.0, 94.6821506523462)
+[26Dec2024 19:39:47.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus joined the game
+[26Dec2024 19:40:19.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus was slain by Zombie
+[26Dec2024 19:40:45.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus has made the advancement [Ice Bucket Challenge]
+[26Dec2024 19:44:10.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jake_pvp_jesus lost connection: Disconnected
+[26Dec2024 19:44:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus left the game
