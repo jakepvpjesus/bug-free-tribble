@@ -132,3 +132,18 @@
 [26Dec2024 19:40:45.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus has made the advancement [Ice Bucket Challenge]
 [26Dec2024 19:44:10.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jake_pvp_jesus lost connection: Disconnected
 [26Dec2024 19:44:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus left the game
+[26Dec2024 19:44:37.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jake_pvp_jesus[/127.25.47.25:60131] logged in with entity id 5428 at (49.14935090527408, 67.0, -383.5002835555375)
+[26Dec2024 19:44:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus joined the game
+[26Dec2024 19:44:39.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jake_pvp_jesus lost connection: Disconnected
+[26Dec2024 19:44:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jake_pvp_jesus left the game
+[26Dec2024 19:45:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Dec2024 19:45:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2024 19:45:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2024 19:45:09.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2024 19:45:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Dec2024 19:45:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Dec2024 19:45:10.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Dec2024 19:45:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Dec2024 19:45:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dec2024 19:45:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dec2024 19:45:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
